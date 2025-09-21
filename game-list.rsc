@@ -40,11 +40,6 @@ add list=game-servers address=146.66.152.0/21 comment="CS:GO Valve"
 add list=game-servers address=155.133.224.0/19 comment="CS:GO Asia"
 add list=game-servers address=103.10.124.0/23 comment="CS:GO Singapore"
 
-# ROBLOX
-add list=game-servers address=128.116.0.0/16 comment="Roblox Global"
-add list=game-servers address=128.116.114.0/24 comment="Roblox Asia"
-add list=game-servers address=128.116.115.0/24 comment="Roblox Backup"
-
 # MINECRAFT
 add list=game-servers address=52.84.0.0/16 comment="Minecraft AWS"
 add list=game-servers address=99.84.0.0/16 comment="Minecraft Backup"
